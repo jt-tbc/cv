@@ -5,7 +5,7 @@
 # loaded and load the cached version in the .Rmd instead of re-fetching it twice
 # for the HTML and PDF rendering. This exercise is left to the reader.
 
-setwd("C:/Users/joet/Downloads/cv")
+setwd("C:/Users/JoeTurner/Documents/GitHub/cv")
 
 # Knit the HTML version
 rmarkdown::render("cv_turner.rmd",
