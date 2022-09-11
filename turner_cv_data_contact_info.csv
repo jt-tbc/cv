@@ -1,0 +1,7 @@
+Id of contact section,Icon used from font-awesome 4 to label this contact section,The actual value written for the contact entry
+loc,icon,contact
+email,envelope,[Email](joe.alexander.turner@gmail.com)
+twitter,twitter,[Twitter](https://twitter.com/Joseph_A_Turner)
+scholar,link,[Google Scholar](https://scholar.google.com/citations?user=DdiPPBsAAAAJ&hl=en)
+linkedin,linkedin,[LinkedIn](https://www.linkedin.com/in/josephalexanderturner/)
+github,github,[GitHub](https://github.com/jt-tbc)
