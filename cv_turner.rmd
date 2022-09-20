@@ -67,11 +67,9 @@ Technical Skills {#skills}
   - Python
   - ESRI GIS Products
   - QGIS
-  - SharePoint
+  - GitHub
 
 - Working knowledge:
-  - Amazon S3
-  - Git and GitHub
   - Javascript
   - SQL 
 
