@@ -21,3 +21,4 @@ rmarkdown::render("cv_turner.rmd",
 # Convert to PDF using Pagedown
 pagedown::chrome_print(input = "cv_turner.rmd",
                        output = "cv_turner.pdf")
+
