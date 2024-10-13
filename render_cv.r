@@ -19,6 +19,11 @@ rmarkdown::render("cv_turner.rmd",
                   output_file = tmp_html_cv_loc)
 
 # Convert to PDF using Pagedown
-pagedown::chrome_print(input = "cv_turner.rmd",
+pagedown::find_chrome()
+pagedown::chrome_print(input = "C:/temp/Rtmpo77fFw/file9f4c41c24084.html",
                        output = "cv_turner.pdf")
+
+pagedown::chrome_print(input = "C:/Users/JoeTurner/Documents/GitHub/cv/cv_turner.html", 
+                       output = "cv_turner.pdf")
+
 

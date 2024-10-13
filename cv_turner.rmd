@@ -9,6 +9,7 @@ output:
   pagedown::html_resume:
     css: ['dd_cv.css', 'custom2.css',  'resume']
     self_contained: true
+
 ---
 
 ```{r, include=FALSE}
@@ -58,20 +59,24 @@ CV %>% print_contact_info()
 ```
 
 
-Technical Skills {#skills}
+Key Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Proficient:
+-
+  - Biodiversity and Nature Data Expert
+  
+  - Translation of Data into Nature Positive Actions for Companies
+  
+  - Knowledge of Key Nature-related Frameworks (SBTN, TNFD, ESRS-CSRD, GRI)
+  
+  - Biodiversity Metric Development
+  
+  - Management of High-Performing Teams
+  
+  - Data and Geospatial Analysis (R, Python)
+  
+  - Marine Survey Methods
 
-  - R
-  - Python
-  - ESRI GIS Products
-  - QGIS
-  - GitHub
-
-- Working knowledge:
-  - Javascript
-  - SQL 
 
 Main
 ================================================================================
